@@ -29,7 +29,7 @@ const Form = (props) => {
             <input
                 type='text'
                 name='name'
-                value={formData.thing} 
+                value={formData.name} 
                 onChange={handleChange}
                 placeholder='Hipster name here'
             />
