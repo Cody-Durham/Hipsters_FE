@@ -73,7 +73,7 @@ const deleteHipster = (hipster) => {
       <h2>HIPSTERS IN THE WILD</h2>
       <hr/>
       <Link to='/create'>
-        <button>testing</button>
+        <button>Make a new hipster</button>
       </Link>
      <main>
      <Switch>
